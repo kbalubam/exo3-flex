@@ -1,0 +1,65 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+header{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 5px ;
+}
+.container{
+    display: flex;
+    
+    
+    
+}
+ article{
+    background-color:rgb(74, 74, 189);
+    height: 1000px;
+    width: 700px;
+    order:2;
+    border-radius: 5px ;
+    margin: 5px;
+}
+    
+    
+ nav{
+    background-color:coral;
+    height: 1000px;
+    width: 264px;
+    border-radius: 5px ;
+    margin:5px;
+    order:1;
+
+    
+}
+    
+    
+   
+
+aside{
+    background-color:coral;
+    height: 1000px;
+    width: 264px;
+    order:3;
+    border-radius: 5px ;
+    margin: 5px;
+    
+   
+   
+    
+    
+}
+
+footer{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 5px ;
+}
+
